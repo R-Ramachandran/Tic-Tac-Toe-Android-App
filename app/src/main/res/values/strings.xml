@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string-array name="x_or_o">
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="o_or_x">
+        <item>O</item>
+        <item>X</item>
+    </string-array>
+    <string name="Rules">
+        1) The object of Tic Tac Toe is to get three in a row.\n
+        2) You play on a three by three game board.\n
+        3) The first player is known as X and the second is O.\n
+        4) Players alternate placing Xs and Os on the game board until either opponent has three in a row or all nine squares are filled.\n
+        5) X always goes first, and in the event that no one has three in a row, the stalemate is called a cat game.
+    </string>
+</resources>
